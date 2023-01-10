@@ -4,20 +4,20 @@ const CONFIG = {
 
 const ICONS = [
   {
-    icon: "ri-youtube-fill",
-    link: "https://www.youtube.com/"
+    icon: "ri-dribbble-line",
+    link: "https://www.dribbble.com/uvacoder/"
   },
   {
-    icon: "ri-whatsapp-fill",
-    link: "https://web.whatsapp.com/"
+    icon: "ri-codepen-line",
+    link: "https://codepen.io/uvacoder/"
   },
   {
-    icon: "ri-reddit-fill",
-    link: "https://www.reddit.com/"
+    icon: "ri-linkedin-box-line",
+    link: "https://www.linkeden.com/en/alecbcampbell"
   },
   {
     icon: "ri-github-fill",
-    link: "https://www.github.com/"
+    link: "https://www.github.com/uvacoder/"
   }
 ]
 
